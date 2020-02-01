@@ -1,6 +1,6 @@
 'use strict';
 
-const editor = require('../../lib/edit-file') ;
+const editor = require('../lib/edit-file') ;
 const path = require('path');
 describe('file modules' , () => {
 
